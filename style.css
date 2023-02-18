@@ -1,0 +1,293 @@
+body {
+margin: 0;
+padding: 0;
+background: #1E1E1E;
+}
+.container{
+position: relative;
+width: 1728px;
+height: 1271px;
+background: #111111;
+}
+.nav{
+box-sizing: border-box;
+position: absolute;
+width: 1645px;
+height: 135px;
+left: 41px;
+top: 33px;
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.nav p{
+position: absolute;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+margin-top: 38px;
+margin-left: 51px;
+}
+.photo{
+box-sizing: border-box;
+position: absolute;
+width: 506px;
+height: 311px;
+left: 41px;
+top: 197px;
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.photo img{
+margin-top: 30px;
+margin-left: 158px;
+}
+.photo p{
+margin-left: 180px;
+margin-top: 33px;
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.details{
+box-sizing: border-box;
+position: absolute;
+width: 500px;
+height: 355px;
+left: 47px;
+top: 537px;
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.name, .eclipse1{
+    margin-top: 37px;
+}
+.username{
+    padding-top: 57px;
+}
+
+.emailid{
+    padding-top: 105px;
+}
+
+.age{
+    padding-top: 152px;
+}
+
+.gender{
+    padding-top: 199px;
+}
+
+.location{
+    padding-top: 247px;
+}
+
+.name , .username, .emailid, .age, .gender, .location{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    padding-left: 49px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.eclipse1, .eclipse2, .eclipse3, .eclipse4, .eclipse5, .eclipse6{
+    position: absolute;
+}
+.eclipse2{
+margin-top: 82px;
+}
+.eclipse3{
+    padding-top: 130px;
+}
+.eclipse4{
+    padding-top: 178px;
+}
+.eclipse5{
+    padding-top: 225px;
+}
+.eclipse6{
+    padding-top: 272px;
+}
+
+.links{
+box-sizing: border-box;
+position: absolute;
+width: 506px;
+height: 306px;
+left: 41px;
+top: 928px;
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+
+.link{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-left: 15px;
+    text-decoration: none;
+}
+.email{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #808080; 
+    padding-left: 70px;
+    padding-top: 45px;
+}
+.facebook{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #808080; 
+    padding-left: 70px;
+    padding-top: 95px;
+}
+.instagram{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #808080; 
+    padding-left: 70px;
+    padding-top: 145px;
+}
+.github{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #808080; 
+    padding-left: 70px;
+    padding-top: 195px;
+}
+
+.elogo{
+    position:absolute;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+.fblogo{
+    position:absolute;
+    padding-left: 50px;
+    padding-top: 133px;
+
+}
+.iglogo{
+    position:absolute;
+    padding-left: 50px;
+    padding-top: 185px;
+
+}
+.gitlogo{
+    position:absolute;
+    padding-left: 50px;
+    padding-top: 236px;
+
+}
+
+.Rcontainer{
+position: absolute;
+width: 1102px;
+height: 1036px;
+left: 584px;
+top: 197px;
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+
+.table-heading{
+    padding-left: 35px;
+    padding-top: 65px;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 48px;
+    line-height: 58px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+table{
+    border: 1px solid #808080;
+    margin: 40px;
+    height: 800px;
+    width: 1000px;
+    border-collapse: collapse;
+    position: absolute;
+}
+.table{
+    padding-top: 150px;
+    border-radius: 20px;
+}
+
+thead{
+    padding-top: 50px;
+    color: #808080;
+}
+
+td ,th{
+border: 2px solid #808080;
+color: #808080;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+}
+th{
+    padding: 10px;
+    color: #808080;
+}
+tr{
+    text-align: center;
+}
+
+input{
+    height: 0px;
+    width: 0px;
+}
+
+label{
+    display: inline-block;
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+    border: 2px solid #808080;
+}
